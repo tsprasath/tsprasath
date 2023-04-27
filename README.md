@@ -19,9 +19,6 @@ Prasath Sivasubramaniyan is a Senior DevOps Engineer with a Bachelor of IT degre
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tsprasath&limit=5&theme=alduin&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tsprasath&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
