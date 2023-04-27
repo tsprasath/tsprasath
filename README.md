@@ -25,6 +25,6 @@ Prasath Sivasubramaniyan is a Senior DevOps Engineer with a Bachelor of IT degre
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tsprasath&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tsprasath&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
